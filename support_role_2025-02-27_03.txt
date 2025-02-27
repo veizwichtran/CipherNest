@@ -1,0 +1,1 @@
+Support role management for synchronization (quick) - Implemented a new feature to enhance role management.
