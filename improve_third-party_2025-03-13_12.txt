@@ -1,0 +1,1 @@
+Improve third-party authentication for optimization (simplified) - Implemented a new feature to enhance third-party authentication.
