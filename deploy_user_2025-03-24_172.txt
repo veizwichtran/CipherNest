@@ -1,0 +1,1 @@
+Deploy user interface for endpoint (major) - Implemented a new feature to enhance user interface.
