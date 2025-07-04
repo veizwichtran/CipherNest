@@ -1,0 +1,1 @@
+Remove email verification for response (major) - Implemented a new feature to enhance email verification.
