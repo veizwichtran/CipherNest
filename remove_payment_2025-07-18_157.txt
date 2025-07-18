@@ -1,0 +1,1 @@
+Remove payment gateway for synchronization (major) - Implemented a new feature to enhance payment gateway.
