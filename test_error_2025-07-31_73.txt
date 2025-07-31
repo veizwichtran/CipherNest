@@ -1,0 +1,1 @@
+Test error handling for authentication (legacy)
