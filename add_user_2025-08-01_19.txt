@@ -1,0 +1,1 @@
+Add user authentication for query (minor) - Implemented a new feature to enhance user authentication.
