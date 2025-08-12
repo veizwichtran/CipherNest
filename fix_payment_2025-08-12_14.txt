@@ -1,0 +1,1 @@
+Fix payment gateway for middleware (easy) - Implemented a new feature to enhance payment gateway.
