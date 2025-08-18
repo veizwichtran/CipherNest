@@ -1,0 +1,1 @@
+Support session timeout for performance (minor) - Implemented a new feature to enhance session timeout.
