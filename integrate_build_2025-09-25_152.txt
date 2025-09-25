@@ -1,0 +1,1 @@
+Integrate build pipeline for validation (quick)
