@@ -1,0 +1,1 @@
+Remove user authentication for performance (minor) - Implemented a new feature to enhance user authentication.
