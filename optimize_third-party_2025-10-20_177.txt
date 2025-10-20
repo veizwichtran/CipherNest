@@ -1,0 +1,1 @@
+Optimize third-party authentication for response (major) - Implemented a new feature to enhance third-party authentication.
