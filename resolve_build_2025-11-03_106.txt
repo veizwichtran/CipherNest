@@ -1,0 +1,1 @@
+Resolve build pipeline for integration (urgent) - Implemented a new feature to enhance build pipeline.
