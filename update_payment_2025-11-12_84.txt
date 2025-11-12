@@ -1,0 +1,1 @@
+Update payment gateway for server (simplified) - Implemented a new feature to enhance payment gateway.
