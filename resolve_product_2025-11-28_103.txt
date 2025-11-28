@@ -1,0 +1,1 @@
+Resolve product search for UI (simplified) - Implemented a new feature to enhance product search.
