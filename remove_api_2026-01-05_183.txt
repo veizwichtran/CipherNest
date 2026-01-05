@@ -1,0 +1,1 @@
+Remove API response for bugfix (legacy) - Implemented a new feature to enhance API response.
