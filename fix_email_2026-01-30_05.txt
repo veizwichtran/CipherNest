@@ -1,0 +1,1 @@
+Fix email verification for performance (critical) - Implemented a new feature to enhance email verification.
