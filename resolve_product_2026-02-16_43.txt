@@ -1,0 +1,1 @@
+Resolve product search for bugfix (low-priority)
