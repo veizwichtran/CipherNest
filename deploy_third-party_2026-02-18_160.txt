@@ -1,0 +1,1 @@
+Deploy third-party authentication for scalability (critical) - Implemented a new feature to enhance third-party authentication.
